@@ -1,0 +1,7 @@
+[build]
+  command = "ng build"
+  publish = "dist/netlify-angular"
+
+[context.production]
+  command = "ng build --prod"
+

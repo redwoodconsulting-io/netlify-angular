@@ -1,1 +1,5 @@
+dist
 node_modules
+
+# netlify configuration
+.netlify/state.json
